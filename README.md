@@ -6,11 +6,11 @@ RCS Web Development Camp September October 2019
 ### Week 1
 
 * Day 1 - Web Dev Overview
-  1.Git -> Github
-  2.Web Developer Tools in Chrome / Firefox
+  1. Git -> Github
+  2. Web Developer Tools in Chrome / Firefox
 * Day 2 - Web Dev Overview
-  3.Code Editors -> Visual Studio Code setup
-  4.Cloud based code pens
+  3. Code Editors -> Visual Studio Code setup
+  4. Cloud based code pens
 * Day 3
 * Day 4 
 * Day 5
@@ -42,7 +42,7 @@ RCS Web Development Camp September October 2019
 ### Week 6
 * Day 1
 * Day 2
-* Day 3
-* Day 4
+* Day 3 - 
+* Day 4 - Back End Alternatives / Frameworks
 * Day 5 - Final Project Presentations - Feedback
 
