@@ -2,9 +2,10 @@
 1. Set up GitHub Account
     1. Make a Simple Hello World Page
     2. Host it - Make it Public to the World
-2. Set up FreeCodeCamp Account
-3. Set up local Git
-4. Set up VS Code
+2. Check Developer Tools
+3. Set up FreeCodeCamp Account
+4. Set up local Git
+5. Set up VS Code
 
 ## Mozilla Web Resources - Best Official Resources 
 Covers ALL web browsers: Firefox, Chrome, Edge, Explorer, Safari and more!
