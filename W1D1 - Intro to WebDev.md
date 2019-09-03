@@ -46,3 +46,8 @@ https://frontendmasters.com/books/front-end-handbook/2019/
 ### Use Boring Technology!
 
 http://boringtechnology.club/
+
+## How does internet work
+* https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm (from 2002 but still basics are correct)
+* https://itusts.wordpress.com/2017/04/07/how-does-the-internet-work/
+
