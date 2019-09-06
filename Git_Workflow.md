@@ -67,3 +67,7 @@ From https://medium.com/@eduoshaun/difference-between-git-and-github-807f1a57d43
 
 ## Git Bash commands
 * https://www.atlassian.com/git/tutorials/git-bash
+
+### How to Git Init locally then push later to Remote (such as Github)
+
+* https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line
