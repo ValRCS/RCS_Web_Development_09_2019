@@ -9,3 +9,8 @@
 # Pseudo Elements
 * https://developer.mozilla.org/en-US/docs/Web/CSS/::before
 * https://www.w3schools.com/css/css_pseudo_elements.asp
+
+# Background Image Opacity
+
+* https://css-tricks.com/snippets/css/transparent-background-images/
+* https://scotch.io/tutorials/how-to-change-a-css-background-images-opacity
