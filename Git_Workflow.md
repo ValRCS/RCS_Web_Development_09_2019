@@ -58,6 +58,7 @@ From https://medium.com/@eduoshaun/difference-between-git-and-github-807f1a57d43
 
 ### Git Basics in 10 minutes
 * https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
+* https://www.freecodecamp.org/news/git-the-laymans-guide-to-understanding-the-core-concepts/
 
 ### Git Graphical Clients
 * https://git-scm.com/downloads/guis
