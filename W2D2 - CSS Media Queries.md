@@ -14,3 +14,4 @@
 
 * https://css-tricks.com/snippets/css/transparent-background-images/
 * https://scotch.io/tutorials/how-to-change-a-css-background-images-opacity
+* https://stackoverflow.com/questions/35669563/changing-the-opacity-of-background-image-in-css
