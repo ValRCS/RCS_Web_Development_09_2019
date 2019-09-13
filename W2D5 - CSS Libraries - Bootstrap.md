@@ -46,3 +46,9 @@ Many paid Bootstrap Themes exist, build your own if you want :)
 
 ## Bootstrap in 14 days -> 1 or 2 days for us :)
 https://bootstrapbay.com/blog/day-1-bootstrap-4-cdn-and-starter-template/
+
+## Backface Rotation 
+Rotate Elements 
+
+* https://css-tricks.com/almanac/properties/b/backface-visibility/
+* https://www.w3schools.com/howto/howto_css_flip_card.asp
