@@ -56,3 +56,8 @@ Rotate Elements
 
 ## Dropdown Menu
 * https://www.w3schools.com/howto/howto_css_dropdown.asp
+
+## Pure HTML+CSS (no Javascript) Hamburger Menu
+
+* https://codepen.io/erikterwan/pen/EVzeRP
+* https://code-boxx.com/simple-responsive-pure-css-hamburger-menu/
