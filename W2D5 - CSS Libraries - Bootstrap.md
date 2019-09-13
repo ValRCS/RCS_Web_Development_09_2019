@@ -61,3 +61,6 @@ Rotate Elements
 
 * https://codepen.io/erikterwan/pen/EVzeRP
 * https://code-boxx.com/simple-responsive-pure-css-hamburger-menu/
+
+## Progressive Enhancement vs Graceful Degradation
+* https://stackoverflow.com/questions/2550431/what-is-the-difference-between-progressive-enhancement-and-graceful-degradation
