@@ -15,3 +15,8 @@
 * https://css-tricks.com/snippets/css/transparent-background-images/
 * https://scotch.io/tutorials/how-to-change-a-css-background-images-opacity
 * https://stackoverflow.com/questions/35669563/changing-the-opacity-of-background-image-in-css
+
+
+## Optimization
+
+* CSS Sprites (one big image instead of many small images) https://www.w3schools.com/css/css_image_sprites.asp
