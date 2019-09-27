@@ -2,6 +2,9 @@
 
 ![RoadMap](https://cdn-images-1.medium.com/max/1600/1*YTP0ii6kEqZtxUN0bOKADA.png)
 
+# Modern Javascript explained for Dinosaurs (recommended reading!)
+https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
+
 # Lighthouse accessibility tool
 * https://developers.google.com/web/tools/lighthouse/
 
