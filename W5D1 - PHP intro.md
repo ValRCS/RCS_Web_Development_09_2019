@@ -44,6 +44,9 @@ Cload installer Bitnami provides many convenient prebuilt stacks
 * https://bitnami.com/stacks/infrastructure
 Choose (WAMP/LAMP/MAMP)
 
+## Least Problems last time
+* https://www.apachefriends.org/index.html
+
 ## Alternative on Windows 
 * http://www.wampserver.com/en/
 
