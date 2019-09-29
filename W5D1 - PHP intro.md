@@ -44,6 +44,9 @@ Cload installer Bitnami provides many convenient prebuilt stacks
 * https://bitnami.com/stacks/infrastructure
 Choose (WAMP/LAMP/MAMP)
 
+## Alternative on Windows 
+* http://www.wampserver.com/en/
+
 ## Hello world in PHP
 * https://secure.php.net/manual/en/tutorial.firstpage.php
 
