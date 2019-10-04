@@ -91,6 +91,9 @@ http://www.sqlitetutorial.net/sqlite-php/
 * https://sqlbolt.com/
 * https://www.hackerrank.com/challenges/revising-the-select-query/problem
 
+## SQL query order
+* https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/
+
 
 ## NoSQL
 
