@@ -58,4 +58,10 @@ Only person to hold a gold badge in  PDO,  Mysqli and  SQL Injection on Stack Ov
 * https://www.php.net/book.filter
 
 
+## Do not store just the username (and not password!!!) in cookies
+
+* https://stackoverflow.com/questions/1410901/what-should-be-stored-in-a-cookie-for-a-login-system
+* https://fishbowl.pastiche.org/2004/01/19/persistent_login_cookie_best_practice
+
+
 
