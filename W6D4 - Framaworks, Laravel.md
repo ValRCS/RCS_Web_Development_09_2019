@@ -29,3 +29,7 @@ Some free
 
 ## Uploading Files
 * https://www.w3schools.com/php/php_file_upload.asp
+
+## REST API
+
+* https://webdamn.com/create-simple-rest-api-with-php-mysql/
