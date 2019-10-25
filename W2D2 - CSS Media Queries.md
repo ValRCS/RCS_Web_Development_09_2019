@@ -20,3 +20,10 @@
 ## Optimization
 
 * CSS Sprites (one big image instead of many small images) https://www.w3schools.com/css/css_image_sprites.asp
+
+## Common breakpoints for popular sites
+
+*  https://www.websitedimensions.com/
+
+### Bootstrap framework breakpoints (more about Boostrap later!)
+* https://getbootstrap.com/docs/4.0/layout/grid/#grid-options
