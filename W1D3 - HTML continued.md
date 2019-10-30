@@ -9,4 +9,4 @@
 ## Img srcset attr
 
 * https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/
-
+* https://caniuse.com/#feat=srcset (not supported on IE everywhere else is fine)
