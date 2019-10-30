@@ -5,3 +5,8 @@
 * https://www.w3schools.com/html/
 * https://www.w3.org/standards/webdesign/htmlcss
 
+
+## Img srcset attr
+
+* https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/
+
